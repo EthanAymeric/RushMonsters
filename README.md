@@ -9,3 +9,7 @@ Jeu de style RPG mêlant stratégie, prise de décisions rapide et gestion du te
 
 ## But du jeu
 L'objectif est d'éliminer tous les ennemis présents sur la map le plus vite possible en utilisant les différentes capacités mises à disposition. Plus vite vous finissez le jeu, meilleur est votre rang à la fin.
+
+## 📝 Auteurs
+- [EthanAymeric](https://github.com/EthanAymeric)
+- [mchargui212](https://github.com/mchargui212)
