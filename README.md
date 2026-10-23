@@ -17,6 +17,8 @@ L'objectif est d'éliminer tous les ennemis présents sur la map le plus vite po
 
 ## Mécaniques et fonctionnement
 
+![Capture d'écran d'une début de partie du jeu RushMonsters](RushMonstersImg/RushMonsters_GameplayScreen.png)
+
 ### 🌲 Structure d'arbre binaire
 La map du jeu suit celle d'un arbre binaire : à chaque noeud, il est possible d'accéder aux deux fils de celui-ci, jusquà arriver aux feuilles de l'arbre.
 Le joueur commence la partie à la racine de l'arbre et peut explorer les différentes zones du jeu en descendant et remontant les différents noeuds de l'arbre.
@@ -48,7 +50,10 @@ Si le joueur parvient à terrasser un ennemi, 3 choses peuvent arriver :
 À vous de gérer vos ressources pour ressortir de ces combats sains et saufs !
   
 ### ⏲️ Timer et Rang
+![Capture d'écran d'un classement en fin de partie de RushMonsters](RushMonstersImg/RushMonsters_RankScreen.png)
 Le but ultime du jeu est de le finir le plus vite possible. Comme les monstres et leur placement ne sont pas générés aléatoirement, il est possible d'apprendre les chemins les plus efficaces pour finir le jeu rapidement.
+
+Plus vous êtes rapides, plus vous aurez un meilleur rang, allant de D à S pour les experts !
 
 ## 👥 Contributeurs
 - [EthanAymeric](https://github.com/EthanAymeric)
